@@ -10,10 +10,10 @@
 
 	
 
-   <name>Control ESP8266</name>
+   <name>Pong CRS</name>
 
    <description>
-       Test per control.lar un NodeMCU 8266
+       Un pong fet per alumnes de 4t del Numancia
     </description>
 
     <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
